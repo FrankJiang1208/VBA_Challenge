@@ -1,17 +1,9 @@
 # VBA_Challenge
 Data Analysis HW
 
-Background
-You are well on your way to becoming a programmer and Excel master! In this homework assignment you will use VBA scripting to analyze real stock market data. Depending on your comfort level with VBA, you may choose to challenge yourself with a few of the challenge tasks.
+I used VBA scripting to analyze real stock market data.
 
-Before You Begin
-
-
-Create a new repository for this project called VBA-challenge. Do not add this homework to an existing repository.
-
-
-Inside the new repository that you just created, add any VBA files you use for this assignment. These will be the main scripts to run for each analysis.
-
+I did the following:
 
 
 Files
@@ -27,10 +19,7 @@ Stock Data - Run your scripts on this data to generate the final homework report
 Stock market analyst
 
 
-Instructions
-
-
-Create a script that will loop through all the stocks for one year and output the following information.
+Created a script that will loop through all the stocks for one year and output the following information.
 
 
 The ticker symbol.
@@ -46,15 +35,12 @@ The total stock volume of the stock.
 
 
 
-
-You should also have conditional formatting that will highlight positive change in green and negative change in red.
-
+Conditional formated that will highlight positive change in green and negative change in red.
 
 
 
 
-BONUS Challenge 
 
-Your solution will also be able to return the stock with the "Greatest % increase", "Greatest % decrease" and "Greatest total volume". 
+It also returns the stock with the "Greatest % increase", "Greatest % decrease" and "Greatest total volume". 
 
 
